@@ -2,8 +2,8 @@
   <a href="https://i2.wp.com/ayusch.com/wp-content/uploads/2018/09/widgets_everywhere.png"><img align='center' src="https://i2.wp.com/ayusch.com/wp-content/uploads/2018/09/widgets_everywhere.png"></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Hamza Mehmood</h1>
-<h3 align="center">Low-code Flutter developer passionate to create innovative hybrid apps</h3>
+<h1 align="left">Hi 👋, I'm Hamza Mehmood</h1>
+<h3 align="left">Low-code Flutter developer passionate to create innovative hybrid apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravehamza&label=Profile%20views&color=0e75b6&style=flat" alt="ravehamza" /> </p>
 
