@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">Hi 👋, I'm Hamza Mehmood</h1>
-<h3 align="left">Low-code Flutter developer passionate to create innovative hybrid apps</h3>
+<h3 align="left">Low-code Flutter developer passionate to create cross-platform native apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravehamza&label=Profile%20views&color=0e75b6&style=flat" alt="ravehamza" /> </p>
 
