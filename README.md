@@ -1,9 +1,6 @@
-<p>
-  <a href="https://i2.wp.com/ayusch.com/wp-content/uploads/2018/09/widgets_everywhere.png"><img align='center' src="https://i2.wp.com/ayusch.com/wp-content/uploads/2018/09/widgets_everywhere.png"></a>
-</p>
 
 <h1 align="left">Hi 👋, I'm Hamza Mehmood</h1>
-<h3 align="left">Low-code Flutter developer passionate to create cross-platform native apps</h3>
+<h3 align="left">Angular developer passionate to create scalable apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravehamza&label=Profile%20views&color=0e75b6&style=flat" alt="ravehamza" /> </p>
 
@@ -11,17 +8,17 @@
 
 - 🌱 I’m currently learning **almost everything 😅**
 
-- 👯 I’m looking to collaborate on **instagram 😍**
+- 👯 I’m looking to collaborate on **Instagram 😍**
 
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **Angular, Typescript, Firebase**
 
-- 📫 How to reach me **hamza.edu@yahoo.com**
+- 📫 How to reach me **hamza.mehmood1@yahoo.com**
 
-- ⚡ Fun fact **Programmers are best meme creators, just look at snapchat 🤣**
+- ⚡ Fun fact **Programmers are the best meme creators, just look at Snapchat 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamza-mehmood-b57095154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-mehmood-b57095154" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamza-mehmood-angulardeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-mehmood-b57095154" height="30" width="40" /></a>
 <a href="https://instagram.com/ravehamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravehamza" height="30" width="40" /></a>
 </p>
 
